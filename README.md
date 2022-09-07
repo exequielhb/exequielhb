@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://i.ibb.co/Jx35bxP/11.gif" alt="Codeando" width="500">
+![Header](https://i.ibb.co/GFRn6mb/github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exequielhb&label=Profile%20views&color=0e75b6&style=flat" alt="exequielhb" /> </p>
 
