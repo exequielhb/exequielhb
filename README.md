@@ -1,5 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Exequiel :D</h1>
-<h3 align="center">A passionate frontend technology and development. Im from Argentina</h3>
+
 
 <img align="right" src="https://i.ibb.co/Jx35bxP/11.gif" alt="Codeando" width="500">
 
@@ -27,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exequielhb&show_icons=true&locale=en" alt="exequielhb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exequielhb&" alt="exequielhb" /></p>
-
- -->
