@@ -1,9 +1,15 @@
 
-# 💫 About Me:
-🔭 I I’m Exequiel<br>👯 I’m interested in building apps that help others<br>🤝 I’m looking to collaborate if you have a great idea<br>🌱 I’m currently learning React and Node stack<br>⚡ Personal portfolio under construction...
+# 💫 Bienvenido a mi perfil de GitHub:
+Mi nombre es Exequiel y soy un aprendiz de desarrollo front-end enfocado en React.
+
+Como parte de mi formación, he estado trabajando en proyectos personales y realizando prácticas para adquirir experiencia práctica en el desarrollo de aplicaciones web. También he completado cursos en línea y asistido a talleres y conferencias para ampliar mis conocimientos y habilidades.
+
+En este perfil, encontrarás algunos de mis proyectos más destacados y ejemplos de mi trabajo. Si tienes alguna pregunta o quieres saber más sobre mi experiencia y habilidades, no dudes en ponerte en contacto conmigo.
+
+Gracias por visitar mi perfil. ¡Espero tener la oportunidad de charlas con vos en el futuro!
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/exequiel-herrera-b-aa723bb8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrcwARzlcTFm8bkIt%2FaJyKg%3D%3D) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/exe8422) 
 
 # 💻 Tech Stack:
