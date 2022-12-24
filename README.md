@@ -1,12 +1,12 @@
 
 # 💫 Bienvenido a mi perfil de GitHub:
-Mi nombre es Exequiel y soy un aprendiz de desarrollo front-end enfocado en React.
+<center>Mi nombre es Exequiel y soy un aprendiz de desarrollo front-end enfocado en React.
 
 Como parte de mi formación, he estado trabajando en proyectos personales y realizando prácticas para adquirir experiencia práctica en el desarrollo de aplicaciones web. También he completado cursos en línea y asistido a talleres y conferencias para ampliar mis conocimientos y habilidades.
 
 En este perfil, encontrarás algunos de mis proyectos más destacados y ejemplos de mi trabajo. Si tienes alguna pregunta o quieres saber más sobre mi experiencia y habilidades, no dudes en ponerte en contacto conmigo.
 
-Gracias por visitar mi perfil. ¡Espero tener la oportunidad de charlas con vos en el futuro!
+Gracias por visitar mi perfil. ¡Espero tener la oportunidad de charlas con vos en el futuro!</center>
 
 
 ## 🌐 Social:
